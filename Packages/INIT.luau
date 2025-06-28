@@ -12,7 +12,7 @@ function module.RequestInformation(Key: string)
   if InfoTable[Key] then
     return InfoTable[Key]
   else
-    warn("No Key)
+    warn("No Key")
 
 end
 
